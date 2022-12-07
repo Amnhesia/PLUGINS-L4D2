@@ -1,5 +1,5 @@
-# L4D2ModelChanger-edit
-modify to use custom models on my l4d2 server
+# L4D2ModelChanger-editss
+modify to use custom models
 
 Lux's Model Changer: https://forums.alliedmods.net/showthread.php?p=2449184
 
